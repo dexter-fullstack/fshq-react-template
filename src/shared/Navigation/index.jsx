@@ -18,6 +18,7 @@ export default class Navigation extends Component {
               </li>
               <li class="nav-item">
                 <Link class="nav-link" to="/about">About</Link>
+                
               </li>
               <li class="nav-item">
                 <Link class="nav-link" to="/contact">Contact</Link>
